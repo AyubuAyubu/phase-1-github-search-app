@@ -1,29 +1,4 @@
 
-Skip to content
-Pull requests
-Issues
-Marketplace
-Explore
-@AyubuAyubu
-achingachris /
-phase-1-github-search-app
-Public
-forked from FS-Moringa/phase-1-github-search-app
-
-Code
-Pull requests
-Actions
-Projects
-Security
-
-    Insights
-
-phase-1-github-search-app/js/index.js /
-chrisislearning complete: api error
-Latest commit 7b2ba54 2 days ago
-History
-1 contributor
-68 lines (61 sloc) 2.3 KB
 const gitForm = document.querySelector('#github-form')
 
 document.addEventListener('DOMContentLoaded', () => {
